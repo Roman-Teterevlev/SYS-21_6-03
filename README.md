@@ -25,3 +25,4 @@ Docker. Часть 1
 1. Удалите образ hello-world.
 2. Приложите скриншот.
 ### Ответ:
+![Screenshot at 2023-05-20 23-31-04](https://github.com/Roman-Teterevlev/SYS-21_6-03/assets/132853752/ec96a170-5aff-45b9-9c23-f59f72edb619)
