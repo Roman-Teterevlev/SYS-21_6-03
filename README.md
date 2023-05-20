@@ -12,7 +12,8 @@ Docker. Часть 1
 1. Установите Docker.
 2. Приложите скриншот.
 ### Ответ:
-
+![Screenshot at 2023-05-20 17-58-33](https://github.com/Roman-Teterevlev/SYS-21_6-03/assets/132853752/767ddc16-bccf-44ae-84eb-bcc9d253531e)
+![Screenshot at 2023-05-20 18-00-39](https://github.com/Roman-Teterevlev/SYS-21_6-03/assets/132853752/fe6a739f-fbbd-4e5f-bf4e-a0bcc47c3542)
 ## Задание 3
 Выполните действия:
 1. Запустите образ hello-world.
